@@ -1,0 +1,10 @@
+/out/
+CMakeSettings.json
+CMakePresets.json
+.vs/
+/.vscode/
+/tmp*/
+out/
+thirdParty/
+*.dat
+*.obj
