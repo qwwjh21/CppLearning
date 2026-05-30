@@ -41,4 +41,4 @@
 负责从队列中消费数据
 
 ## 运行流程
-![ProducerConsumer](images/producer_consumer.png)
+![ProducerConsumer](../../images/producer_consumer.png)
